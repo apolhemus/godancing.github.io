@@ -2,7 +2,7 @@
 title: Goshen Community Contra Dancing
 date: 2016-11-12 12:12:00 -05:00
 heading: Go Dancing!
-subheading: First Saturdays at 7:30pm in Goshen, IN
+subheading: First Saturdays at 7:00pm in Goshen, IN
 image: "/uploads/contra-1600_mini.jpg"
 imageCaption: Contra Dancing in Goshen, IN
 sideBar: upcoming-dances.html
@@ -14,11 +14,11 @@ order: 1
 - Live music by local & regional bands.
 
 ## Time
-**Beginners' workshop:** 7 - 7:30 pm EST<br>
-**Contra Dance:** 7:30 - 10:30 pm EST
+**Beginners' workshop:** 6:30 - 7:00 pm EST<br>
+**Contra Dance:** 7:00 - 10:00 pm EST
 
 ## Place
-First United Methodist Church<br>
+Goshen First Church<br>
 215 South 5th St.<br>
 Goshen, IN<br>
 
